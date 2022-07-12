@@ -1,3 +1,11 @@
+AI-chatbot
+KOCOMONG-AI
+
+슬기로운 건강생활 어플
+🩺질병 진단
+1) Level2 진단 모델
+2) Transformer 기반 질병 진단 모델
+　　 　　
 # 질병진단
 
 ###  　🖼️ 학습데이터 EDA
